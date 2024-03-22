@@ -14,8 +14,16 @@ Within the resource folder:
 
 ## Deliverables
 Our ERD: 
+![alt text](crowdfunding_ERD-1.png)
+
+The schema used to create the SQL database tables can be found in the folder "SQL Files" --> crowdfunding_db_schema.sql.
 
 Each of our data outputs as shown in Postgres:
+![alt text](campaign_table_part1.png)
+![alt text](campaign_table_part2.png)
+![alt text](category_table.png)
+![alt text](subcategory_table.png)
+![alt text](contacts_table.png)
 
 The remainder of the DataFrames and other results of the work outlined below can be found in the ETL_Mini_Project_NChian_ABitzer.ipynb file.
 
