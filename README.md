@@ -1,7 +1,7 @@
 # Crowdfunding_ETL
 
 ## Introduction
-For the ETL mini project, we worked to practice building an ETL pipeline using Python, Pandas, and chose to show our knowledge of both Python dictionary methods and regular expressions to extract and transform the data (contacts table). After transforming the data, four CSV files were created and the CSV file data was used to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database (screenshots at the end).
+For the ETL mini project, we worked to practice building an ETL pipeline using Python, Pandas, and chose to show our knowledge of both Python dictionary methods and regular expressions to extract and transform the data (contacts table). After transforming the data, four CSV files were created and the CSV file data was used to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database (screenshots below).
 
 ### Collaborators
 * Anna Bitzer
