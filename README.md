@@ -17,14 +17,19 @@ Our ERD:
 
 Each of our data outputs as shown in Postgres:
 
+The remainder of the DataFrames results of the work outlined below can be found in the ETL_Mini_Project_NChian_ABitzer.ipynb file.
+
 ## Project Outline
 ### Primary Outcomes
-The outcomes for this mini project are divided into the following subsections:
+The outcomes for this mini project are divided into four subsections and work was divided as follows:
 
-* Creating the Category and Subcategory DataFrames
+1. Anna was responsible for: 
 * Creating the Campaign DataFrame
-* Creating the Contacts DataFrame
 * Creating the Crowdfunding Database
+
+2. Nora was responsible for:
+* Creating the Contacts DataFrame
+* Creating the Category and Subcategory DataFrames
 
 ### Category and Subcategory DataFrames
 1. Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
