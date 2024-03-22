@@ -12,7 +12,7 @@ Within the resource folder:
 * contacts.xlsx
 * crowdfunding.xlsx
 
-## Deliverables
+## Key Results
 Our ERD: 
 
 Each of our data outputs as shown in Postgres:
@@ -88,7 +88,7 @@ There were two options for methodology around extracting and transforming the da
 * Clean and then export the DataFrame as contacts.csv as saved within the Resources folder for this GitHub repository.
 
 ## Creating the Crowdfunding Database
-1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site (ours can be found under the Deliverables heading).
+1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site (ours can be found under the Key Results heading).
 
 2. Use the information from the ERD to create a table schema for each CSV file.
 * Note: Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -103,4 +103,4 @@ There were two options for methodology around extracting and transforming the da
 
 7. Import each CSV file into its corresponding SQL table.
 
-8. Verify that each table has the correct data by running a SELECT statement for each (our results are shown at the top under the Deliverables heading).
+8. Verify that each table has the correct data by running a SELECT statement for each (our results are shown at the top under the Key Results heading).
