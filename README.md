@@ -17,7 +17,7 @@ Our ERD:
 
 Each of our data outputs as shown in Postgres:
 
-The remainder of the DataFrames results of the work outlined below can be found in the ETL_Mini_Project_NChian_ABitzer.ipynb file.
+The remainder of the DataFrames and other results of the work outlined below can be found in the ETL_Mini_Project_NChian_ABitzer.ipynb file.
 
 ## Project Outline
 ### Primary Outcomes
