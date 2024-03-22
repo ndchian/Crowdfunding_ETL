@@ -23,6 +23,7 @@ Each of our data outputs as shown in Postgres:
 * Campaign SQL Table (2 images, to include all columns)
   
   ![alt text](campaign_table_part1.png)
+![Screenshot 2024-03-21 at 7 37 28 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/2c515efc-81b4-4a91-be93-df214af04cc4)
 
   ![alt text](campaign_table_part2.png)
 
