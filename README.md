@@ -14,7 +14,8 @@ Within the resource folder:
 
 ## Key Results
 Our ERD: 
-![alt text](crowdfunding_ERD.png)
+
+![Screenshot 2024-03-21 at 7 44 12 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/8df56b3a-d7fd-46e0-96bb-b3c509eca3bc)
 
 The schema used to create the SQL database tables can be found in the folder "SQL Files" --> crowdfunding_db_schema.sql.
 
@@ -22,22 +23,21 @@ Each of our data outputs as shown in Postgres:
 
 * Campaign SQL Table (2 images, to include all columns)
   
-  ![alt text](campaign_table_part1.png)
-![Screenshot 2024-03-21 at 7 37 28 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/2c515efc-81b4-4a91-be93-df214af04cc4)
+![Screenshot 2024-03-21 at 7 43 06 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/b7959038-f1f2-4895-99f7-5295de9f0a08)
 
-  ![alt text](campaign_table_part2.png)
+![Screenshot 2024-03-21 at 7 43 21 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/c9fe590f-9a30-46c8-8d09-0cae238a00fb)
 
 * Category SQL Table
   
-![alt text](category_table.png)
+![Screenshot 2024-03-21 at 7 43 39 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/13fe58dc-4630-4b72-a60e-2c71cd68848c)
 
 * Subcategory SQL Table
   
-![alt text](subcategory_table.png)
+![Screenshot 2024-03-21 at 7 44 05 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/9dafc733-92de-4123-afde-e86c3fbeba30)
 
 * Contacts SQL Table
   
-![alt text](contacts_table.png)
+![Screenshot 2024-03-21 at 7 43 49 PM](https://github.com/ndchian/Crowdfunding_ETL/assets/153045237/1c2d03af-3a62-4c65-8a14-ee90acfc25f4)
 
 The remainder of the DataFrames and other results of the work outlined below can be found in the ETL_Mini_Project_NChian_ABitzer.ipynb file.
 
